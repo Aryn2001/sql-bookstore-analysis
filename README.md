@@ -1,2 +1,25 @@
-# sql-bookstore-analysis
-Developed a SQL-based bookstore analysis project to solve real-world business problems such as inventory tracking, customer order analysis, and top-selling book identification using JOINs, GROUP BY, aggregate functions, and business reporting queries.
+🔹 Project Overview
+
+“This project analyzes bookstore sales and inventory data using SQL.”
+
+🔹 Skills Used
+SQL JOINs
+GROUP BY
+HAVING
+Aggregate functions
+Business analysis
+🔹 Business Questions Solved
+
+Examples:
+
+Most frequently ordered books
+Remaining stock analysis
+Customers with multiple orders
+Revenue analysis
+🔹 Dataset Description
+
+Explain tables:
+
+books
+customers
+orders
